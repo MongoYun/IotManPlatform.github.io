@@ -1,10 +1,10 @@
 # ----------- CONFIGURABLE START -----------
-title:            "LiberXue|FullStack|独立开发者|jekyll blog|GitHub blog"
-description:      "Full Stack独立开发者|欢迎来到 LiberXue「角落」侃侃理想、谈谈人生、敲敲代码。"
+title:            "IotMan Platform Wiki"
+description:      "IotMan欢迎广大物联爱好者进驻。我们为大家提供开放稳定的物联平台。"
 url:              https://liberxue.github.io # 域名
-signoff:          "LiberXue" # Your name
+signoff:          "iotman" # Your name
 facebook_appid:   #liberxue
-google_analytics: UA-101222464-1
+google_analytics: #UA-101222464-1
 share:            true 
 # 分页
 paginate: 15
@@ -14,17 +14,11 @@ links:
   - name:         首页
     url:          /
     external:     false
-  - name:         书籍
-    url:          /book
-    external:     false
-  - name:         旅游
-    url:          /road
-    external:     false
-  - name:         归档
-    url:          /archives
-    external:     false
-  - name:         标签
-    url:          /tags
+  - name:         开源项目
+    url:          https://github.com/IotManPlatform
+    external:     false   
+  - name:         文档
+    url:          /wiki
     external:     false
   - name:         关于
     url:          /about
