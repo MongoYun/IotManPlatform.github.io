@@ -4,12 +4,12 @@ name: IotManPlatform
 description: Welcome to IotManPlatform！
 
 # url is currently only used only for the RSS feed in feed.xml
-url: https://github.com/IotManPlatform/IotManPlatform.github.io/
+url: https://github.com/IotManPlatform/
 # baseurl will often be '', but for a project page on gh-pages, it needs to
 # be the project name.
 # *** IMPORTANT: If your local "jekyll serve" throws errors change this to '' or
 #     run it like so: jekyll serve --baseurl=''
-baseurl: '/jekyll-xixia'
+baseurl: '/IotManPlatform'
 ## default date_format
 date_format: 
   title: "%B-%-d-%Y"
