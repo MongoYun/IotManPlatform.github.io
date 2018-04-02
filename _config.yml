@@ -9,6 +9,7 @@ share:            true
 # 分页
 paginate: 15
 paginate_path: "iotman:num"
+paginate_path_name: "iotman"
 gems: [jekyll-paginate]
 links:
   - name:         首页
